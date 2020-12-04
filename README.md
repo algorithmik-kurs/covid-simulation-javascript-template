@@ -8,7 +8,7 @@ Written by Jonathan Treffler.
 
 ## Installing:
 ```bash
-npm ci
+npm install
 ```
 
 ## Running:
